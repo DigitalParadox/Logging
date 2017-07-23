@@ -14,7 +14,7 @@ namespace DigitalParadox.Logging.Serilog
             var loggerConfig = new LoggerConfiguration();
 
             loggerConfig.
-                WriteTo.ColoredConsole()
+                WriteTo.Console()
                 .MinimumLevel.Is(LogEventLevel.Information);
 
             Container.RegisterInstance(loggerConfig);

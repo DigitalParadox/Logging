@@ -1,6 +1,6 @@
 ﻿using System;
-using DigitalParadox.HandlebarsCli.Interfaces;
 using Serilog;
+using DigitalParadox.HandlebarsCli.Interfaces;
 
 namespace DigitalParadox.Logging.Serilog
 {
