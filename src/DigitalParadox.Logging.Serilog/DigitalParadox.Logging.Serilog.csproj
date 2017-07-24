@@ -5,6 +5,7 @@
     <Authors>Chris McGrath</Authors>
     <Company>Digital Paradox</Company>
     <Description>Serilog Logging Integration for digital paradox applications</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
