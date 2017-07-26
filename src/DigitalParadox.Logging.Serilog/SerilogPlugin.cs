@@ -1,5 +1,4 @@
-﻿using DigitalParadox.HandlebarsCli.Interfaces;
-using Microsoft.Practices.Unity;
+﻿using Microsoft.Practices.Unity;
 using Serilog;
 using Serilog.Events;
 
