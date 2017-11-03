@@ -1,6 +1,8 @@
-﻿using Microsoft.Practices.Unity;
+﻿
 using Serilog;
 using Serilog.Events;
+using Unity;
+using Unity.Extension;
 
 namespace DigitalParadox.Logging.Serilog
 {
